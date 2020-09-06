@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbb97597-565b-4ef8-9784-d316e2570af3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amk/167/15407AMK-03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amk/167/15408AMK-03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
     </list>
@@ -14,6 +14,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,9 +34,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\vue\json-server\amk\167" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.start">
     <configuration name="now:deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -70,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583235951864</updated>
       <workItem from="1583235953200" duration="447000" />
-      <workItem from="1593504341695" duration="1456000" />
+      <workItem from="1593504341695" duration="1501000" />
+      <workItem from="1599370438493" duration="3757000" />
     </task>
     <servers />
   </component>
@@ -78,21 +98,33 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1254" height="192" key="GridCell.Tab.0.bottom" timestamp="1593505591465">
-      <screen x="69" y="0" width="1297" height="768" />
+    <state x="490" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599386885527">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1254" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768@69.0.1297.768" timestamp="1593505591465" />
-    <state width="1254" height="192" key="GridCell.Tab.0.center" timestamp="1593505591465">
-      <screen x="69" y="0" width="1297" height="768" />
+    <state x="490" y="186" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1304.768@62.0.1304.768" timestamp="1599386885527" />
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom" timestamp="1599370887039">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1254" height="192" key="GridCell.Tab.0.center/69.0.1297.768@69.0.1297.768" timestamp="1593505591465" />
-    <state width="1254" height="192" key="GridCell.Tab.0.left" timestamp="1593505591465">
-      <screen x="69" y="0" width="1297" height="768" />
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1599370887039" />
+    <state width="1254" height="192" key="GridCell.Tab.0.bottom/69.0.1297.768@69.0.1297.768" timestamp="1593505849746" />
+    <state width="1261" height="239" key="GridCell.Tab.0.center" timestamp="1599370887039">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1254" height="192" key="GridCell.Tab.0.left/69.0.1297.768@69.0.1297.768" timestamp="1593505591465" />
-    <state width="1254" height="192" key="GridCell.Tab.0.right" timestamp="1593505591465">
-      <screen x="69" y="0" width="1297" height="768" />
+    <state width="1261" height="239" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1599370887039" />
+    <state width="1254" height="192" key="GridCell.Tab.0.center/69.0.1297.768@69.0.1297.768" timestamp="1593505849746" />
+    <state width="1261" height="239" key="GridCell.Tab.0.left" timestamp="1599370887038">
+      <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1254" height="192" key="GridCell.Tab.0.right/69.0.1297.768@69.0.1297.768" timestamp="1593505591465" />
+    <state width="1261" height="239" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1599370887038" />
+    <state width="1254" height="192" key="GridCell.Tab.0.left/69.0.1297.768@69.0.1297.768" timestamp="1593505849746" />
+    <state width="1261" height="239" key="GridCell.Tab.0.right" timestamp="1599370887039">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1599370887039" />
+    <state width="1254" height="192" key="GridCell.Tab.0.right/69.0.1297.768@69.0.1297.768" timestamp="1593505849746" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1599371718820">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1599371718820" />
   </component>
 </project>
