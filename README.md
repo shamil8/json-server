@@ -11,4 +11,8 @@ ALL my aplications use this server:
   || GitHub repository: https://github.com/shamil8/station  <br />
   || Demo version: https://station.adib.now.sh/   <br />
 
+3. <b>Task ASU</b>  ----------<br />
+  || GitHub repository: https://github.com/shamil8/task_asu <br />
+  || Demo version: https://task-asu.vercel.app/  <br />
+
 ...
