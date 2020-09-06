@@ -1,6 +1,5 @@
 # json-server
-My JsonServer (fake) now
-My data fake store
+<b>My JsonServer (fake) in now</b> (Demo: https://json-server.adib.vercel.app/) <br />
 
 ALL my aplications use this server:
 
